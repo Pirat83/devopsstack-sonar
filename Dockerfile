@@ -1,4 +1,4 @@
-FROM sonarqube:latest
+FROM sonarqube:6.5
 MAINTAINER Rafael Kansy <rafael.kansy@blue-sharp.de>
 
 # Sonar settings
